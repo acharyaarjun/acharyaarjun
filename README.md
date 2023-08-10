@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun Acharya</h1>
-<h3 align="center">Full Stack Web Developer from Nepal.</h3>
+<h3 align="center">Full Stack Engineer from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acharyaarjun&label=Profile%20views&color=0e75b6&style=flat" alt="acharyaarjun" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nujra_ayrahca" target="blank"><img src="https://img.shields.io/twitter/follow/nujra_ayrahca?logo=twitter&style=for-the-badge" alt="nujra_ayrahca" /></a> </p>
 
-- 🔭 I’m currently working on **Websoft Technology Nepal, Pokhara**
+- 🔭 I’m currently working on **Teispace**
 
 - 🌱 I’m currently learning **New Technology**
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://acharyaarjun.com.np/home/pdf/cv.pdf](https://acharyaarjun.com.np/home/pdf/cv.pdf)
 
-- ⚡ Fun fact **I want to make money from my skills.**
+- ⚡ Fun fact **There is no fun.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
